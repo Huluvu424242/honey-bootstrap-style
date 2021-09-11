@@ -7,7 +7,7 @@ import {Component, getAssetPath, h} from '@stencil/core';
 export class HoneyboostrapStyle {
 
   render() {
-    const stylePath: string = getAssetPath('./assets/boostrap.css');
+    const stylePath: string = getAssetPath('./assets/bootstrap.css');
     return <link rel="stylesheet" href={stylePath}/>
   }
 }

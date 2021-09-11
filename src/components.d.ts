@@ -6,32 +6,32 @@
  */
 import { HTMLStencilElement, JSXBase } from "@stencil/core/internal";
 export namespace Components {
-    interface HoneyNormalizeStyle {
+    interface HoneyBoostrapStyle {
     }
 }
 declare global {
-    interface HTMLHoneyNormalizeStyleElement extends Components.HoneyNormalizeStyle, HTMLStencilElement {
+    interface HTMLHoneyBoostrapStyleElement extends Components.HoneyBoostrapStyle, HTMLStencilElement {
     }
-    var HTMLHoneyNormalizeStyleElement: {
-        prototype: HTMLHoneyNormalizeStyleElement;
-        new (): HTMLHoneyNormalizeStyleElement;
+    var HTMLHoneyBoostrapStyleElement: {
+        prototype: HTMLHoneyBoostrapStyleElement;
+        new (): HTMLHoneyBoostrapStyleElement;
     };
     interface HTMLElementTagNameMap {
-        "honey-normalize-style": HTMLHoneyNormalizeStyleElement;
+        "honey-boostrap-style": HTMLHoneyBoostrapStyleElement;
     }
 }
 declare namespace LocalJSX {
-    interface HoneyNormalizeStyle {
+    interface HoneyBoostrapStyle {
     }
     interface IntrinsicElements {
-        "honey-normalize-style": HoneyNormalizeStyle;
+        "honey-boostrap-style": HoneyBoostrapStyle;
     }
 }
 export { LocalJSX as JSX };
 declare module "@stencil/core" {
     export namespace JSX {
         interface IntrinsicElements {
-            "honey-normalize-style": LocalJSX.HoneyNormalizeStyle & JSXBase.HTMLAttributes<HTMLHoneyNormalizeStyleElement>;
+            "honey-boostrap-style": LocalJSX.HoneyBoostrapStyle & JSXBase.HTMLAttributes<HTMLHoneyBoostrapStyleElement>;
         }
     }
 }

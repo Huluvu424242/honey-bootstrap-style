@@ -1,10 +1,10 @@
 import {Component, getAssetPath, h} from '@stencil/core';
 
 @Component({
-  tag: 'honey-boostrap-style',
+  tag: 'honey-bootstrap-style',
   assetsDirs: ['assets']
 })
-export class HoneyboostrapStyle {
+export class HoneybootstrapStyle {
 
   render() {
     const stylePath: string = getAssetPath('./assets/bootstrap.css');

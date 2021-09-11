@@ -1,5 +1,5 @@
 {
-  "name": "@huluvu424242/honey-boostrap-style",
+  "name": "@huluvu424242/honey-bootstrap-style",
   "version": "0.0.1",
   "description": "styles to apply with honey webcomponents.",
   "main": "dist/index.cjs.js",
@@ -9,18 +9,18 @@
   "types": "dist/custom-elements/index.d.ts",
   "collection": "dist/collection/collection-manifest.json",
   "collection:main": "dist/collection/index.js",
-  "unpkg": "dist/honey-boostrap-style/honey-boostrap-style.js",
+  "unpkg": "dist/honey-bootstrap-style/honey-bootstrap-style.js",
   "files": [
     "dist/",
     "loader/"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Huluvu424242/honey-boostrap-style.git"
+    "url": "https://github.com/Huluvu424242/honey-bootstrap-style.git"
   },
   "keywords": [
     "honey",
-    "boostrap",
+    "bootstrap",
     "style",
     "webcomponent",
     "custom-element"
@@ -28,7 +28,7 @@
   "author": "Huluvu424242 alias FunThomas424242 and in real life Thomas Schubert",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Huluvu424242/honey-boostrap-style/issues"
+    "url": "https://github.com/Huluvu424242/honey-bootstrap-style/issues"
   },
   "scripts": {
     "postinstall": "cp ./node_modules/bootstrap/dist/css/bootstrap.css src/components/honey-bootstrap-style/assets/",

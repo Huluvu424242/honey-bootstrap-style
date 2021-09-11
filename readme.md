@@ -1,33 +1,33 @@
-[![Build Status](https://app.travis-ci.com/Huluvu424242/honey-boostrap-style.svg?branch=master)](https://app.travis-ci.com/Huluvu424242/honey-boostrap-style)
-![Github CI](https://github.com/Huluvu424242/honey-boostrap-style/workflows/Github%20CI/badge.svg)
-[![npm](https://img.shields.io/npm/v/@huluvu424242/honey-boostrap-style.svg)](https://www.npmjs.com/package/@huluvu424242/honey-boostrap-style)
-[![npm](https://img.shields.io/npm/dy/@huluvu424242/honey-boostrap-style.svg)](https://www.npmjs.com/package/@huluvu424242/honey-boostrap-style)
-[![npm](https://img.shields.io/npm/dm/@huluvu424242/honey-boostrap-style.svg)](https://www.npmjs.com/package/@huluvu424242/honey-boostrap-style)
-[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/@huluvu424242/honey-boostrap-style)
+[![Build Status](https://app.travis-ci.com/Huluvu424242/honey-bootstrap-style.svg?branch=master)](https://app.travis-ci.com/Huluvu424242/honey-bootstrap-style)
+![Github CI](https://github.com/Huluvu424242/honey-bootstrap-style/workflows/Github%20CI/badge.svg)
+[![npm](https://img.shields.io/npm/v/@huluvu424242/honey-bootstrap-style.svg)](https://www.npmjs.com/package/@huluvu424242/honey-bootstrap-style)
+[![npm](https://img.shields.io/npm/dy/@huluvu424242/honey-bootstrap-style.svg)](https://www.npmjs.com/package/@huluvu424242/honey-bootstrap-style)
+[![npm](https://img.shields.io/npm/dm/@huluvu424242/honey-bootstrap-style.svg)](https://www.npmjs.com/package/@huluvu424242/honey-bootstrap-style)
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/@huluvu424242/honey-bootstrap-style)
 [![Donate with paypal](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/huluvu424242)
 ![Keybase BTC](https://img.shields.io/keybase/btc/huluvu424242)
-# honey-boostrap-style 
+# honey-bootstrap-style 
 This project contains web components for styling honey webcomponents. 
 
 ## installation
 
-npm install --save @huluvu424242/honey-boostrap-style
+npm install --save @huluvu424242/honey-bootstrap-style
 
 ## usage
 
 ```html
 <script 
     type="module" 
-    src='https://unpkg.com/@huluvu424242/honey-boostrap-style@0.0.1/dist/honey-boostrap-style/honey-boostrap-style.esm.js'>
+    src='https://unpkg.com/@huluvu424242/honey-bootstrap-style@0.0.1/dist/honey-bootstrap-style/honey-bootstrap-style.esm.js'>
 </script>
 <script 
     nomodule 
-    src='https://unpkg.com/@huluvu424242/honey-boostrap-style@0.0.1/dist/cjs/honey-boostrap-style.cjs.js'>
+    src='https://unpkg.com/@huluvu424242/honey-bootstrap-style@0.0.1/dist/cjs/honey-bootstrap-style.cjs.js'>
 </script>
 ```
-To the [demo site](https://huluvu424242.github.io/honey-boostrap-style/index.html)
+To the [demo site](https://huluvu424242.github.io/honey-bootstrap-style/index.html)
 
-[Vision of API (under construction)](src/components/honey-boostrap-style/readme.md)
+[Vision of API (under construction)](src/components/honey-bootstrap-style/readme.md)
 
 ## demo
 
@@ -44,17 +44,17 @@ To the [demo site](https://huluvu424242.github.io/honey-boostrap-style/index.htm
 ```html
 <body id="seite" style="display: block">
 
-<h1>Nutzung der honey-boostrap-style Komponenten</h1>
+<h1>Nutzung der honey-bootstrap-style Komponenten</h1>
 
 <honey-define-style>
-    <honey-boostrap-style />
+    <honey-bootstrap-style />
 </honey-define-style>
 
 <your-component/>
 
 </body>
 ```
-To the [live demo](https://huluvu424242.github.io/honey-boostrap-style/index.html)
+To the [live demo](https://huluvu424242.github.io/honey-bootstrap-style/index.html)
 
 ## become an supporter
 

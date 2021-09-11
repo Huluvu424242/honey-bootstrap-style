@@ -1,1 +1,0 @@
-import{r as s,g as t,h as r}from"./p-c524ac40.js";const e=class{constructor(t){s(this,t)}render(){const s=t("./assets/boostrap.css");return r("link",{rel:"stylesheet",href:s})}static get assetsDirs(){return["assets"]}};export{e as honey_boostrap_style}

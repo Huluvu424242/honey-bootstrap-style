@@ -1,0 +1,1 @@
+import{p as o,b as t}from"./p-2620c7f8.js";(()=>{const t=import.meta.url,p={};return""!==t&&(p.resourcesUrl=new URL(".",t).href),o(p)})().then((o=>t([["p-38b2d0f0",[[0,"honey-bootstrap-style"]]]],o)));

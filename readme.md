@@ -18,11 +18,11 @@ npm install --save @huluvu424242/honey-bootstrap-style
 ```html
 <script 
     type="module" 
-    src='https://unpkg.com/@huluvu424242/honey-bootstrap-style@0.0.1/dist/honey-bootstrap-style/honey-bootstrap-style.esm.js'>
+    src='https://unpkg.com/@huluvu424242/honey-bootstrap-style@0.0.2/dist/honey-bootstrap-style/honey-bootstrap-style.esm.js'>
 </script>
 <script 
     nomodule 
-    src='https://unpkg.com/@huluvu424242/honey-bootstrap-style@0.0.1/dist/cjs/honey-bootstrap-style.cjs.js'>
+    src='https://unpkg.com/@huluvu424242/honey-bootstrap-style@0.0.2/dist/cjs/honey-bootstrap-style.cjs.js'>
 </script>
 ```
 To the [demo site](https://huluvu424242.github.io/honey-bootstrap-style/index.html)
@@ -68,7 +68,7 @@ To the [live demo](https://huluvu424242.github.io/honey-bootstrap-style/index.ht
 
 ### vX.X.X unpublished
 
-### v0.0.1 published at 2021-09-11
+### [v0.0.1 - v0.0.2] published at 2021-09-11
 
 * [feature 1](https://github.com/Huluvu424242/honey-bootstrap-style/projects/1#card-68574839) setup project
 
